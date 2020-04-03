@@ -1,0 +1,2 @@
+FROM 10.1.10.8/onlineshop/tomcat:v8.0
+COPY test.war /usr/local/tomcat/webapps/
